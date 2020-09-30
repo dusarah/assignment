@@ -1,0 +1,30 @@
+
+h1 {
+  color: darkred;
+}
+h2 {
+  font-style: italic;
+  color: red;
+}
+p {
+  color: black;
+}
+body {
+  background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
+}
+li{
+  border: 2px solid red;
+  padding: 6px;
+  margin: 2px;
+  background-color: yellow;
+
+}
+.test-box {
+
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
