@@ -8,8 +8,8 @@ created a landing page saying about me.
 * code editor:atom
 * open terminal
 * cd assignment
-* git clone http
-* code
+* git https://dusarah.github.io/assignment/page1.html
+
 ## technology used
 * html
 * CSS
